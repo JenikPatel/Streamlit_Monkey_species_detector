@@ -1,0 +1,144 @@
+{
+  "metadata": {
+    "description": "Reference info for the 8 monkey species in the classifier. Keys match the folder / class names used in training.",
+    "last_checked": "2026-10-17",
+    "note": "IUCN statuses can change when species are reassessed; re-check at iucnredlist.org before publishing."
+  },
+  "species": {
+    "Semnopithecus entellus": {
+      "common_names": ["Northern plains gray langur", "Hanuman langur", "Bengal sacred langur"],
+      "family": "Cercopithecidae",
+      "subfamily": "Colobinae",
+      "iucn_status": "Least Concern",
+      "range": "Northern and central India (lowlands north of the Godavari and Krishna rivers, south of the Ganges); also parts of Nepal, Bangladesh and Pakistan",
+      "habitat": "Dry deciduous forest, scrub, plains and human-dominated areas including towns and temples",
+      "diet": "Mostly leaves (folivore), plus fruit and flowers",
+      "identifying_features": [
+        "Silver-gray coat with a yellowish tinge",
+        "Black face, ears, hands and feet",
+        "Tail longer than the body",
+        "No head crest"
+      ],
+      "fun_fact": "Sacred in Hinduism and named after the god Hanuman, so it is often tolerated or fed around temples.",
+      "often_confused_with": ["Semnopithecus johnii"]
+    },
+    "Macaca mulatta": {
+      "common_names": ["Rhesus macaque"],
+      "family": "Cercopithecidae",
+      "subfamily": "Cercopithecinae",
+      "iucn_status": "Least Concern",
+      "range": "Widespread across South, Central and Southeast Asia, including India, Nepal, Bangladesh, Myanmar, Thailand and China",
+      "habitat": "Forests, scrub, farmland, towns and cities; very adaptable",
+      "diet": "Omnivore: fruit, seeds, leaves, insects, and human food",
+      "identifying_features": [
+        "Brown to grayish-brown fur, paler on the underside",
+        "Pinkish-red bare face and rump",
+        "Medium-length tail, shorter than a bonnet macaque's",
+        "No distinctive crown whorl"
+      ],
+      "fun_fact": "One of the most studied primates in biomedical research; the Rh blood factor is named after it.",
+      "often_confused_with": ["Macaca radiata"]
+    },
+    "Macaca radiata": {
+      "common_names": ["Bonnet macaque"],
+      "family": "Cercopithecidae",
+      "subfamily": "Cercopithecinae",
+      "iucn_status": "Vulnerable",
+      "range": "Endemic to peninsular (southern) India",
+      "habitat": "Dry and moist forests, forest edges, farmland, towns and temples",
+      "diet": "Omnivore: fruit, leaves, insects, eggs, small reptiles, and human food",
+      "identifying_features": [
+        "Whorl of hair on the crown that is parted in the middle, like a cap or bonnet",
+        "Bald forehead and sides of the head",
+        "Gray-brown to golden-brown coat, darker on the back",
+        "Long tail"
+      ],
+      "fun_fact": "Two subspecies are recognized: dark-bellied and pale-bellied. Habitat loss and human-monkey conflict are the main threats.",
+      "often_confused_with": ["Macaca mulatta"]
+    },
+    "Macaca silenus": {
+      "common_names": ["Lion-tailed macaque"],
+      "family": "Cercopithecidae",
+      "subfamily": "Cercopithecinae",
+      "iucn_status": "Endangered",
+      "range": "Endemic to the Western Ghats of southern India (Karnataka, Kerala and Tamil Nadu)",
+      "habitat": "Tropical evergreen rainforest, mostly in the canopy",
+      "diet": "Mostly fruit and seeds, plus insects and other small animals",
+      "identifying_features": [
+        "Black body fur",
+        "Silvery-white mane framing the face",
+        "Tufted tail tip like a lion's",
+        "Mostly arboreal"
+      ],
+      "fun_fact": "Depends heavily on intact rainforest, so it is highly sensitive to forest fragmentation.",
+      "often_confused_with": ["Semnopithecus johnii"]
+    },
+    "Semnopithecus johnii": {
+      "common_names": ["Nilgiri langur"],
+      "family": "Cercopithecidae",
+      "subfamily": "Colobinae",
+      "iucn_status": "Vulnerable",
+      "range": "Endemic to the southern Western Ghats (Nilgiri, Palani, Anamalai and Cardamom hills) in Karnataka, Kerala and Tamil Nadu",
+      "habitat": "Montane shola forests and evergreen forests, plus plantations",
+      "diet": "Mostly leaves (folivore), plus fruit, seeds and flowers",
+      "identifying_features": [
+        "Glossy black coat",
+        "Golden-brown to yellowish head",
+        "Long tail",
+        "Slender build"
+      ],
+      "fun_fact": "Sometimes still listed under the older name Trachypithecus johnii in older books and websites.",
+      "often_confused_with": ["Macaca silenus"]
+    },
+    "Trachypithecus geei": {
+      "common_names": ["Golden langur", "Gee's golden langur"],
+      "family": "Cercopithecidae",
+      "subfamily": "Colobinae",
+      "iucn_status": "Endangered",
+      "range": "Western Assam in India and adjoining southern Bhutan, in a small area of forest between the Sankosh and Manas rivers",
+      "habitat": "Subtropical and tropical forest, including forest fragments",
+      "diet": "Mostly leaves (folivore), plus fruit, flowers and seeds",
+      "identifying_features": [
+        "Cream to golden-chestnut coat, which varies with season",
+        "Black face",
+        "Long tail"
+      ],
+      "fun_fact": "Named after the naturalist E. P. Gee, who brought it to scientific attention in the 1950s.",
+      "often_confused_with": ["Semnopithecus entellus"]
+    },
+    "Macaca munzala": {
+      "common_names": ["Arunachal macaque"],
+      "family": "Cercopithecidae",
+      "subfamily": "Cercopithecinae",
+      "iucn_status": "Endangered",
+      "range": "Western Arunachal Pradesh, India (Tawang and West Kameng districts); sightings reported in nearby Bhutan and Tibet",
+      "habitat": "High-altitude forests, often close to villages and farmland",
+      "diet": "Omnivore: fruit, leaves, insects and crops",
+      "identifying_features": [
+        "Large, robust body",
+        "Thick, dark brown fur",
+        "Relatively short tail",
+        "Dark face"
+      ],
+      "fun_fact": "Described as a new species only in 2005.",
+      "often_confused_with": ["Macaca arctoides"]
+    },
+    "Macaca arctoides": {
+      "common_names": ["Stump-tailed macaque", "Bear macaque"],
+      "family": "Cercopithecidae",
+      "subfamily": "Cercopithecinae",
+      "iucn_status": "Vulnerable",
+      "range": "Northeast India, Bangladesh, Myanmar, Thailand, Laos, Vietnam, southern China and northern peninsular Malaysia",
+      "habitat": "Tropical and subtropical evergreen forest, from lowlands to hills",
+      "diet": "Mostly fruit, plus leaves, seeds and small animals",
+      "identifying_features": [
+        "Very short, stump-like tail",
+        "Shaggy dark brown fur",
+        "Bare face that turns red and darkens with age",
+        "Heavy, stocky build"
+      ],
+      "fun_fact": "Adults are often almost hairless on the crown, which gives the face a bald look.",
+      "often_confused_with": ["Macaca munzala"]
+    }
+  }
+}
